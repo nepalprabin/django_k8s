@@ -1,0 +1,7 @@
+django
+gunicorn
+requests
+django-dotenv
+psycopg-binary
+django-storages
+boto3
